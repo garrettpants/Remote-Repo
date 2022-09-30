@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="236_Project_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="236_Project_1">
+				<Option output="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/236_Project_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 236_Project_1"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="236_Project_1/fast">
+				<Option output="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/236_Project_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 236_Project_1/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Add.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Automaton.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Colon.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/ColonDash.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Comma.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Comment.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Facts.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/ID.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Left_Paren.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Lexer.cpp">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Lexer.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Multiply.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Period.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Q_Mark.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Queries.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Right_Paren.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Rules.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Schemes.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/String.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/Token.h">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/main.cpp">
+			<Option target="236_Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gvance00/CLionRemote/tmp/tmp.KegikpVUfs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
